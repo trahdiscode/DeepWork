@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Put your HTML text here<!DOCTYPE html>
 
 <html lang="en"><head>
 <meta charset="utf-8"/>
@@ -219,7 +219,7 @@
 <a class="text-stone-500 hover:text-[#C69C6D] hover:underline underline-offset-8 transition-all duration-300" href="#">Press Kit</a>
 </nav>
 <div class="font-['Manrope'] text-[11px] uppercase tracking-[0.15em] text-stone-400/80 font-medium">
-                © 2024 Deep Work. Designed for mental clarity.
+                © 2026 Deep Work. Designed for mental clarity.
             </div>
 </div>
 </footer>
